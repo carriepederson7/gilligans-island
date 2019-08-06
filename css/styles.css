@@ -1,0 +1,41 @@
+
+
+
+.newlist{
+  color:blue;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+  border: solid;
+}
+
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+p {
+  font-family: fantasy;
+}
+
+h1 {
+  color: #000080;
+}
+
+
+h2 {
+  color: #008080;
+}
+/* nav {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+} */
