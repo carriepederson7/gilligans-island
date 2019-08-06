@@ -1,16 +1,20 @@
 
-
-
-.newlist{
-  color:blue;
+body {
+  background-color: blue;
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
 }
+
 
 ul {
   list-style-type: none;
   margin: 0;
+  margin-right: 500px;
+  margin-left: 500px;
   padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
+  /* width: 200px; */
+  background-color: black;
   border: solid;
 }
 
@@ -26,16 +30,10 @@ p {
 }
 
 h1 {
-  color: #000080;
+  color: #ffff00;
 }
 
 
 h2 {
-  color: #008080;
+  color: #80ff00;
 }
-/* nav {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
-} */
